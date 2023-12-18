@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YshuVaishnavi
 - 👀 I’m interested in java,html,Javascript,css
-- 🌱 I’m currently learning adv python
-- 🌏 Visit my Portfolio loading...
+- 🌱 I’m currently learning adv Java
+- 🌏 Visit my Portfolio :loading...
 - 📫 How to reach me yshu40234@gmail.com
 
 <!---
